@@ -1,0 +1,1642 @@
+{
+  "story": {
+    "name": "call to action",
+    "created_at": "2018-10-28T17:43:36.684Z",
+    "published_at": "2018-10-28T18:01:06.349Z",
+    "alternates": [],
+    "id": 369519,
+    "uuid": "f8126e98-3a21-4c5b-aa97-f49c424150a1",
+    "content": {
+      "_uid": "f228ed73-e378-47c3-b36b-8b64603a3142",
+      "body": [{
+        "_uid": "f7cb5af3-d7ea-45fc-b96c-c32ad8379da7",
+        "icon": "",
+        "logo": "",
+        "text": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there.",
+        "image": "",
+        "width": {
+          "_uid": "19e0fc69-bee5-435a-84f4-c530b2891fc6",
+          "large": "",
+          "small": "8",
+          "medium": "6",
+          "plugin": "example_plugin",
+          "xlarge": "",
+          "xsmall": "12"
+        },
+        "images": "",
+        "in_box": true,
+        "styles": "",
+        "buttons": [{
+          "_uid": "be1ad5b9-e92b-4f05-91d2-d8c3d903b4d3",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "c5ec6a91-ee19-4c7b-9e2a-60af6e38f317",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "text": "Call to action",
+          "style": [],
+          "component": "button",
+          "is_inline": true,
+          "paragraph_style": ["mt-4", "mt-sm-4"]
+        }],
+        "headline": "C T A",
+        "box_style": [],
+        "component": "call_to_action",
+        "row_style": ["justify-content-end"],
+        "background": "//a.storyblok.com/f/43588/3000x2000/4dbbf9806e/bg_1.svg",
+        "headline_2": "",
+        "bottom_body": [],
+        "subheadline": "",
+        "column_style": ["text-center"],
+        "social_icons": [],
+        "icon_alt_text": "",
+        "section_style": ["pb-0"],
+        "image_position": "",
+        "container_style": []
+      }, {
+        "_uid": "fb8a03e0-3600-4798-b5aa-887f1eddd515",
+        "icon": "",
+        "logo": "",
+        "text": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there.",
+        "image": "",
+        "width": {
+          "_uid": "f0a1e402-15de-4510-9595-79ec1b04528a",
+          "large": "6",
+          "small": "10",
+          "medium": "8",
+          "plugin": "example_plugin",
+          "xlarge": "",
+          "xsmall": "12"
+        },
+        "images": "",
+        "in_box": false,
+        "styles": "",
+        "buttons": [{
+          "_uid": "12d1f4aa-b245-4531-8955-fdd540a5b4d0",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "fcaf0751-c2cf-4bb8-a3ed-18d63ab05450",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "text": "Call to action",
+          "style": ["btn-shadow"],
+          "component": "button",
+          "is_inline": true,
+          "paragraph_style": ["mt-5"]
+        }, {
+          "_uid": "6f2fabed-d6fb-4454-97bb-263b0a67dce7",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "60565fb9-cc5d-4bdf-a0e7-c9890f07f6ac",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "text": "Call to action",
+          "style": ["ml-4", "btn-white", "btn-shadow"],
+          "component": "button",
+          "is_inline": true,
+          "paragraph_style": ["mt-5"]
+        }],
+        "headline": "This Blocks are build with the Bootstrap Framework",
+        "box_style": [],
+        "component": "call_to_action",
+        "row_style": [],
+        "background": "//a.storyblok.com/f/43588/3000x2000/6a083c0c68/alt_wide_1.svg",
+        "headline_2": "",
+        "bottom_body": [],
+        "subheadline": "",
+        "column_style": [],
+        "social_icons": [],
+        "icon_alt_text": "",
+        "section_style": [],
+        "image_position": "",
+        "container_style": []
+      }, {
+        "_uid": "60591f57-d87f-4539-8782-ba1275cdcc03",
+        "icon": "",
+        "logo": "",
+        "text": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.",
+        "image": "",
+        "width": {
+          "_uid": "d27e4d18-a249-4cc1-959a-1243dbcce54f",
+          "large": "6",
+          "small": "10",
+          "medium": "8",
+          "plugin": "example_plugin",
+          "xlarge": "",
+          "xsmall": "12"
+        },
+        "images": "",
+        "in_box": false,
+        "styles": "",
+        "buttons": [{
+          "_uid": "b2e4e130-f528-4b3b-a1c4-012c03e27a61",
+          "link": {
+            "id": "",
+            "url": "",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": ""
+          },
+          "text": "Call to action",
+          "style": [],
+          "component": "button",
+          "is_inline": false,
+          "paragraph_style": ["mt-4", "mt-sm-4"]
+        }],
+        "headline": "",
+        "box_style": [],
+        "component": "call_to_action",
+        "row_style": [],
+        "background": "//a.storyblok.com/f/43588/3000x2000/f31f40f76a/alt_wide_2.svg",
+        "headline_2": "",
+        "bottom_body": [],
+        "subheadline": "",
+        "column_style": [],
+        "social_icons": [],
+        "icon_alt_text": "",
+        "section_style": [],
+        "image_position": "",
+        "container_style": []
+      }, {
+        "_uid": "1bf3a6ef-c11d-401b-9b3a-fa08370af78b",
+        "icon": "",
+        "logo": "",
+        "text": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.",
+        "image": "",
+        "width": {
+          "_uid": "0d311a38-eed4-4868-a799-68aa9acb63fd",
+          "large": "",
+          "small": "",
+          "medium": "",
+          "plugin": "example_plugin",
+          "xlarge": "",
+          "xsmall": "12"
+        },
+        "images": "",
+        "in_box": false,
+        "styles": "",
+        "buttons": [],
+        "headline": "Bootstrap",
+        "box_style": [],
+        "component": "call_to_action",
+        "row_style": [],
+        "background": "",
+        "headline_2": "Far far away, behind the word mountains, far from.",
+        "bottom_body": [{
+          "_uid": "84eb8777-5dde-443a-8760-059cff8207b9",
+          "body": [{
+            "_uid": "e6ed231d-8445-4d3c-84d6-8b277e0fb387",
+            "body": [{
+              "_uid": "19ff2633-69a1-45ad-9e12-b3f419127400",
+              "text": "Call to action",
+              "type": "h2",
+              "strong": false,
+              "component": "headline"
+            }, {
+              "_uid": "cd040eab-db60-4be6-b827-c3d411366fd4",
+              "text": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.",
+              "style": ["text-h3"],
+              "component": "paragraph"
+            }, {
+              "_uid": "d5e5582c-e383-40be-9b32-293eb6f47baf",
+              "link": {
+                "id": "",
+                "url": "#",
+                "_uid": "bd27c925-c605-4ea9-a89b-e0fd0d10aabc",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "#"
+              },
+              "text": "Take a Tour",
+              "style": [],
+              "component": "button",
+              "is_inline": false,
+              "paragraph_style": ["mt-4", "mt-sm-4"]
+            }],
+            "style": ["ml-auto", "pt-4 pt-sm-0"],
+            "width": {
+              "_uid": "c43e22df-6c3f-4c48-96d9-1d53aca00ec3",
+              "large": "7",
+              "small": "",
+              "medium": "8",
+              "plugin": "example_plugin",
+              "xlarge": "",
+              "xsmall": "12"
+            },
+            "component": "column"
+          }, {
+            "_uid": "e1b1638a-354b-460b-b716-cea4d2d7725f",
+            "body": [{
+              "_uid": "92e39508-dcd9-450f-a478-48d2e89db84e",
+              "image": "//a.storyblok.com/f/43588/3000x3000/083c081359/img_square_1.svg",
+              "style": ["img-fluid"],
+              "height": "",
+              "alt_text": "",
+              "component": "Image"
+            }],
+            "style": ["m-auto"],
+            "width": {
+              "_uid": "e5793b36-0811-4040-879b-78e9e37a74c3",
+              "large": "",
+              "small": "",
+              "medium": "4",
+              "plugin": "example_plugin",
+              "xlarge": "",
+              "xsmall": "12"
+            },
+            "component": "column"
+          }],
+          "style": ["align-items-center", "justify-content-center"],
+          "component": "row"
+        }],
+        "subheadline": "",
+        "column_style": ["text-center"],
+        "social_icons": [],
+        "icon_alt_text": "",
+        "section_style": [],
+        "image_position": "",
+        "container_style": []
+      }, {
+        "_uid": "683676e2-416d-4765-ac27-68211600ba48",
+        "icon": "",
+        "logo": "//a.storyblok.com/f/43588/437x202/3aeb15af3f/img_logo_new.png",
+        "text": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.",
+        "image": "//a.storyblok.com/f/43588/1000x1500/1aba513653/img_tall.png",
+        "width": {
+          "_uid": "4a2e2c63-cc00-40d0-a791-52e2842babb5",
+          "large": "5",
+          "small": "",
+          "medium": "8",
+          "plugin": "example_plugin",
+          "xlarge": "",
+          "xsmall": "12"
+        },
+        "images": "",
+        "in_box": false,
+        "styles": "",
+        "buttons": [{
+          "_uid": "4d9649c8-9de8-474a-8f58-e0d4fecdde97",
+          "link": {
+            "id": "",
+            "url": "",
+            "linktype": "story",
+            "fieldtype": "multilink",
+            "cached_url": ""
+          },
+          "text": "Call to action",
+          "style": [],
+          "component": "button",
+          "is_inline": false,
+          "paragraph_style": ["mt-4", "mt-sm-4"]
+        }],
+        "headline": "Call to Action",
+        "box_style": [],
+        "component": "call_to_action",
+        "row_style": [],
+        "background": "",
+        "headline_2": "",
+        "bottom_body": [],
+        "subheadline": "",
+        "column_style": [],
+        "social_icons": [],
+        "icon_alt_text": "",
+        "section_style": ["pb-0"],
+        "image_position": "",
+        "container_style": []
+      }, {
+        "_uid": "4a56f309-d74f-49a9-aec4-2d2b3033137b",
+        "icon": "//a.storyblok.com/f/43588/3000x3000/777d463475/img_round.svg",
+        "logo": "",
+        "text": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+        "image": "",
+        "width": {
+          "_uid": "76ee520b-e7f4-4b9f-9972-f0f1e0b41427",
+          "large": "",
+          "small": "",
+          "medium": "8",
+          "plugin": "example_plugin",
+          "xlarge": "",
+          "xsmall": "12"
+        },
+        "images": "",
+        "in_box": false,
+        "styles": "",
+        "buttons": [{
+          "_uid": "7b1ff97a-f986-4872-b99a-10cbf7fc5406",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "59551fd9-86f7-411d-9a7f-29b94f8f71c0",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "text": "Call to action",
+          "style": [],
+          "component": "button",
+          "is_inline": false,
+          "paragraph_style": ["mt-5"]
+        }],
+        "headline": "Call to Action",
+        "box_style": [],
+        "component": "call_to_action",
+        "row_style": ["justify-content-center"],
+        "background": "//a.storyblok.com/f/43588/x/5d6d3f5cf9/bg_0.svg",
+        "headline_2": "",
+        "bottom_body": [],
+        "subheadline": "",
+        "column_style": ["text-center"],
+        "social_icons": [],
+        "icon_alt_text": "",
+        "section_style": ["bg-dark", "fdb-viewport"],
+        "image_position": "",
+        "container_style": ["align-items-center", "justify-content-center", "d-flex"]
+      }, {
+        "_uid": "e3ffc0e1-08db-49ff-b495-0d43c255a573",
+        "icon": "",
+        "logo": "",
+        "text": "",
+        "image": "",
+        "width": {
+          "_uid": "87f174d1-d21a-43d6-a974-aa0af361dba2",
+          "large": "",
+          "small": "10",
+          "medium": "8",
+          "plugin": "example_plugin",
+          "xlarge": "",
+          "xsmall": "12"
+        },
+        "images": "",
+        "in_box": false,
+        "styles": "",
+        "buttons": [{
+          "_uid": "3fc19391-7f5a-460a-b4d5-176ed461494f",
+          "link": {
+            "id": "",
+            "url": "#",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "text": "Call to action",
+          "style": [],
+          "component": "button",
+          "is_inline": false,
+          "paragraph_style": ["mt-5"]
+        }],
+        "headline": "Bootstrap is Open Source and free to use in your apps",
+        "box_style": [],
+        "component": "call_to_action",
+        "row_style": ["justify-content-center"],
+        "background": "//a.storyblok.com/f/43588/3000x2000/1bdbaa71fa/bg_c_1.svg",
+        "headline_2": "",
+        "bottom_body": [],
+        "subheadline": "",
+        "column_style": ["text-center"],
+        "social_icons": [],
+        "icon_alt_text": "",
+        "section_style": ["bg-dark", "fdb-viewport"],
+        "image_position": "",
+        "container_style": ["align-items-center", "justify-content-center", "d-flex"]
+      }, {
+        "_uid": "3c08ded3-d32c-4474-a617-30be388e2644",
+        "icon": "",
+        "logo": "",
+        "text": "",
+        "image": "",
+        "width": {
+          "_uid": "e8a0a55e-85d4-478b-b0fa-b981419f0df3",
+          "large": "",
+          "small": "",
+          "medium": "",
+          "plugin": "example_plugin",
+          "xlarge": "",
+          "xsmall": "12"
+        },
+        "images": "",
+        "in_box": false,
+        "styles": "",
+        "buttons": [],
+        "headline": "",
+        "box_style": [],
+        "component": "call_to_action",
+        "row_style": [],
+        "background": "",
+        "headline_2": "",
+        "bottom_body": [{
+          "_uid": "cacf5790-c6c6-4266-9219-87121c721630",
+          "body": [{
+            "_uid": "acbec806-1537-45d9-9d19-9cf277ad60b1",
+            "body": [{
+              "_uid": "b82e0c9c-0600-46f4-91a1-9d79c24cd1d1",
+              "image": "//a.storyblok.com/f/43588/3000x3000/631f83933c/img_square_4.svg",
+              "style": ["img-fluid"],
+              "height": "",
+              "alt_text": "",
+              "component": "Image"
+            }],
+            "style": ["m-auto", "m-md-0"],
+            "width": {
+              "_uid": "2c43f006-258a-4d37-b996-b787ac8fa3c4",
+              "large": "3",
+              "small": "6",
+              "medium": "4",
+              "plugin": "example_plugin",
+              "xlarge": "",
+              "xsmall": "10"
+            },
+            "component": "column"
+          }, {
+            "_uid": "d9538617-eb03-4687-b084-9379bf3a5054",
+            "body": [{
+              "_uid": "9597f95f-8b6c-41e9-9163-4b1193462d48",
+              "text": "Call to action",
+              "type": "h2",
+              "strong": false,
+              "component": "headline"
+            }, {
+              "_uid": "bb0f3ab7-072f-4d47-a465-2fc62f287b79",
+              "text": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.",
+              "style": ["text-h3"],
+              "component": "paragraph"
+            }, {
+              "_uid": "635a1fc5-69af-4c17-b879-b6e13bd2b391",
+              "link": {
+                "id": "",
+                "url": "#",
+                "_uid": "720d37f9-aa81-4c52-bc31-a60f715741cf",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "#"
+              },
+              "text": "Take a Tour",
+              "style": [],
+              "component": "button",
+              "is_inline": false,
+              "paragraph_style": ["mt-4", "mt-sm-4"]
+            }],
+            "style": ["ml-auto", "pt-4 pt-sm-0"],
+            "width": {
+              "_uid": "13b3485d-8ea6-4329-aec9-835f0dddcd8a",
+              "large": "",
+              "small": "",
+              "medium": "8",
+              "plugin": "example_plugin",
+              "xlarge": "",
+              "xsmall": "12"
+            },
+            "component": "column"
+          }],
+          "style": ["align-items-center"],
+          "component": "row"
+        }],
+        "subheadline": "",
+        "column_style": ["text-center"],
+        "social_icons": [],
+        "icon_alt_text": "",
+        "section_style": [],
+        "image_position": "",
+        "container_style": []
+      }, {
+        "_uid": "2872e16c-61da-4145-a15d-8c9d2ad97b25",
+        "icon": "",
+        "logo": "",
+        "text": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia",
+        "image": "",
+        "width": {
+          "_uid": "a5e4218e-801d-4d64-8e08-e9f7970827bd",
+          "large": "",
+          "small": "",
+          "medium": "",
+          "plugin": "example_plugin",
+          "xlarge": "",
+          "xsmall": "12"
+        },
+        "images": "",
+        "in_box": false,
+        "styles": "",
+        "buttons": [],
+        "headline": "Bootstrap",
+        "box_style": [],
+        "component": "call_to_action",
+        "row_style": [],
+        "background": "",
+        "headline_2": "Far far away, behind the word mountains, far from.",
+        "bottom_body": [{
+          "_uid": "9a1fec33-b269-49a3-bdcc-ff41e61d8173",
+          "body": [{
+            "_uid": "ccbb7652-ed8b-4e44-9b38-05d7baa55791",
+            "body": [{
+              "_uid": "3eb13165-762e-44ee-9928-d4367f30a132",
+              "image": "//a.storyblok.com/f/43588/3000x3000/083c081359/img_square_1.svg",
+              "style": ["img-fluid"],
+              "height": "",
+              "alt_text": "",
+              "component": "Image"
+            }],
+            "style": ["m-auto"],
+            "width": {
+              "_uid": "21e1c0e7-1016-400c-a1dc-ec3afa1727db",
+              "large": "",
+              "small": "",
+              "medium": "4",
+              "plugin": "example_plugin",
+              "xlarge": "",
+              "xsmall": "12"
+            },
+            "component": "column"
+          }, {
+            "_uid": "56f7f976-ae6c-402c-babb-fd0b145fe9a5",
+            "body": [{
+              "_uid": "8ab740e3-6966-4ae1-a6d7-92a3ce38479d",
+              "text": "Call to action",
+              "type": "h2",
+              "strong": false,
+              "component": "headline"
+            }, {
+              "_uid": "ab11bcb0-6263-49a6-88e7-d2184dc495c2",
+              "text": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.",
+              "style": ["text-h3"],
+              "component": "paragraph"
+            }, {
+              "_uid": "a449e758-e544-4359-a128-57a523154175",
+              "link": {
+                "id": "",
+                "url": "#",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "#"
+              },
+              "text": "Take a Tour",
+              "style": [],
+              "component": "button",
+              "is_inline": false,
+              "paragraph_style": ["mt-4", "mt-sm-4"]
+            }],
+            "style": ["ml-auto", "pt-4 pt-sm-0"],
+            "width": {
+              "_uid": "ba1fb693-2228-4555-9da7-967167f274c5",
+              "large": "7",
+              "small": "",
+              "medium": "8",
+              "plugin": "example_plugin",
+              "xlarge": "",
+              "xsmall": "12"
+            },
+            "component": "column"
+          }],
+          "style": ["align-items-center", "justify-content-center"],
+          "component": "row"
+        }],
+        "subheadline": "",
+        "column_style": ["text-center"],
+        "social_icons": [],
+        "icon_alt_text": "",
+        "section_style": [],
+        "image_position": "",
+        "container_style": []
+      }, {
+        "_uid": "8d416ca3-d591-4b09-83af-10b4bdf1f244",
+        "icon": "",
+        "logo": "",
+        "text": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia",
+        "image": "",
+        "width": {
+          "_uid": "978c7fff-1342-44dd-aaf2-c037a97f4356",
+          "large": "",
+          "small": "",
+          "medium": "",
+          "plugin": "example_plugin",
+          "xlarge": "",
+          "xsmall": "12"
+        },
+        "images": "",
+        "in_box": false,
+        "styles": "",
+        "buttons": [],
+        "headline": "Call to Action",
+        "box_style": [],
+        "component": "call_to_action",
+        "row_style": ["justify-content-center"],
+        "background": "",
+        "headline_2": "",
+        "bottom_body": [{
+          "_uid": "fa09b648-bcd4-46aa-b8e2-d5afa509158b",
+          "body": [{
+            "_uid": "c257279e-fb6a-4b1c-9f97-e88eb987deea",
+            "body": [{
+              "_uid": "79c78ef7-7f51-4a1c-a179-217b2f9b239e",
+              "image": "//a.storyblok.com/f/43588/3000x3000/ea784b46e3/img_square_2.svg",
+              "style": ["img-fluid"],
+              "height": "",
+              "alt_text": "",
+              "component": "Image"
+            }],
+            "style": [],
+            "width": {
+              "_uid": "ccba189b-7884-4227-815d-7927b8c401df",
+              "large": "",
+              "small": "3",
+              "medium": "",
+              "plugin": "example_plugin",
+              "xlarge": "",
+              "xsmall": "8"
+            },
+            "component": "column"
+          }, {
+            "_uid": "e128b129-aa14-444a-97d6-7f8fbd533168",
+            "body": [{
+              "_uid": "49a53bc9-bcf1-4e4f-92bd-80f8b10129fe",
+              "text": "Bootstrap",
+              "type": "h2",
+              "strong": true,
+              "component": "headline"
+            }, {
+              "_uid": "b045c05f-aef7-47bf-88f9-af39edb60a13",
+              "text": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.",
+              "style": ["text-h3"],
+              "component": "paragraph"
+            }],
+            "style": ["ml-auto", "pt-4 pt-sm-0"],
+            "width": {
+              "_uid": "be1c535d-1c6a-495c-957d-dced11e54d9e",
+              "large": "",
+              "small": "6",
+              "medium": "",
+              "plugin": "example_plugin",
+              "xlarge": "",
+              "xsmall": "12"
+            },
+            "component": "column"
+          }, {
+            "_uid": "ac1a65a6-0d96-4731-a4a5-59cc217f5a7c",
+            "body": [{
+              "_uid": "876cc61f-7699-47fa-b343-76933836ddb4",
+              "link": {
+                "id": "",
+                "url": "#",
+                "_uid": "17edfca8-d76a-4c2e-ba3c-4e8d162fa478",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "#"
+              },
+              "text": "Take a Tour",
+              "style": ["btn-empty"],
+              "component": "button",
+              "is_inline": false,
+              "paragraph_style": []
+            }, {
+              "_uid": "013b6453-96d9-4e35-a4e1-c107ec379121",
+              "link": {
+                "id": "",
+                "url": "#",
+                "_uid": "370d9307-520b-4f28-bc4d-8d6bc0326c45",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "#"
+              },
+              "text": "Take a Tour",
+              "style": [],
+              "component": "button",
+              "is_inline": false,
+              "paragraph_style": []
+            }, {
+              "_uid": "38b576bd-1cf5-4418-adfe-788c0ecc364d",
+              "text": "*some foo text*",
+              "style": ["text-h5"],
+              "component": "paragraph"
+            }],
+            "style": ["pt-4 pt-sm-0", "text-center"],
+            "width": {
+              "_uid": "bf4e1c79-ef29-4c23-9faa-7fd7bbe708af",
+              "large": "",
+              "small": "3",
+              "medium": "",
+              "plugin": "example_plugin",
+              "xlarge": "",
+              "xsmall": "8"
+            },
+            "component": "column"
+          }],
+          "style": ["align-items-center", "justify-content-center"],
+          "component": "row"
+        }],
+        "subheadline": "",
+        "column_style": [],
+        "social_icons": [],
+        "icon_alt_text": "",
+        "section_style": [],
+        "image_position": "",
+        "container_style": []
+      }, {
+        "_uid": "cab2b0e8-82d7-4425-8466-00a77b80bfd9",
+        "icon": "",
+        "logo": "",
+        "text": "Separated they live in Bookmarksgrove right at the coast of the Semantics, far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast.",
+        "image": "",
+        "width": {
+          "_uid": "075f8199-6b80-4847-b0e2-54c49d49452a",
+          "large": "",
+          "small": "8",
+          "medium": "",
+          "plugin": "example_plugin",
+          "xlarge": "",
+          "xsmall": "12"
+        },
+        "images": "",
+        "in_box": false,
+        "styles": "",
+        "buttons": [{
+          "_uid": "84b46465-360f-4ffb-a6dd-23558c0ec733",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "0f02c3ef-093b-4816-98e7-a742a63572e1",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "text": "Call to action",
+          "style": [],
+          "component": "button",
+          "is_inline": false,
+          "paragraph_style": ["mt-4", "mt-sm-4"]
+        }],
+        "headline": "Call to Action",
+        "box_style": [],
+        "component": "call_to_action",
+        "row_style": ["justify-content-center"],
+        "background": "",
+        "headline_2": "",
+        "bottom_body": [],
+        "subheadline": "",
+        "column_style": ["text-center"],
+        "social_icons": [],
+        "icon_alt_text": "",
+        "section_style": [],
+        "image_position": "",
+        "container_style": []
+      }, {
+        "_uid": "169f1d1f-1b5a-4dbb-b7d4-6ebf90d5fd06",
+        "icon": "",
+        "logo": "",
+        "text": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+        "image": "",
+        "width": {
+          "_uid": "7f3dffd7-40de-4fef-ac38-9c2d929751bb",
+          "large": "",
+          "small": "6",
+          "medium": "",
+          "plugin": "example_plugin",
+          "xlarge": "",
+          "xsmall": "12"
+        },
+        "images": "",
+        "in_box": false,
+        "styles": "",
+        "buttons": [{
+          "_uid": "05e38a2d-4276-4aa8-bb00-9bb286b7a238",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "292348f9-5b68-4a4b-acee-73403451cd15",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "text": "Call to action",
+          "style": [],
+          "component": "button",
+          "is_inline": false,
+          "paragraph_style": ["mt-4", "mt-sm-4"]
+        }],
+        "headline": "Call to Action",
+        "box_style": [],
+        "component": "call_to_action",
+        "row_style": ["justify-content-center"],
+        "background": "",
+        "headline_2": "",
+        "bottom_body": [],
+        "subheadline": "",
+        "column_style": ["text-center"],
+        "social_icons": [],
+        "icon_alt_text": "",
+        "section_style": [],
+        "image_position": "",
+        "container_style": []
+      }, {
+        "_uid": "61fb8a5c-2bfb-4f86-b53a-aa36b3218b0b",
+        "icon": "",
+        "logo": "",
+        "text": "",
+        "image": "",
+        "width": {
+          "_uid": "02775067-054d-46da-a73c-d0134e1f1a50",
+          "large": "4",
+          "small": "8",
+          "medium": "6",
+          "plugin": "example_plugin",
+          "xlarge": "",
+          "xsmall": "12"
+        },
+        "images": "",
+        "in_box": false,
+        "styles": "",
+        "buttons": [{
+          "_uid": "d699bd61-e739-4f19-82fe-aa5f4f682aad",
+          "link": {
+            "id": "",
+            "url": "#",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "text": "Call to action",
+          "style": [],
+          "component": "button",
+          "is_inline": false,
+          "paragraph_style": ["mt-4", "mt-sm-4"]
+        }],
+        "headline": "",
+        "box_style": [],
+        "component": "call_to_action",
+        "row_style": ["justify-content-center"],
+        "background": "",
+        "headline_2": "",
+        "bottom_body": [],
+        "subheadline": "Right at the coast of the Semantics, a large language ocean. A small river named Duden.",
+        "column_style": ["text-center"],
+        "social_icons": [],
+        "icon_alt_text": "",
+        "section_style": [],
+        "image_position": "",
+        "container_style": []
+      }, {
+        "_uid": "fe0ecec0-4e8c-4bff-8eaf-7f9ca7dfb05d",
+        "icon": "",
+        "logo": "",
+        "text": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+        "image": "",
+        "width": {
+          "_uid": "c1cd26b6-714c-4d52-958a-acfd857de74e",
+          "large": "",
+          "small": "6",
+          "medium": "",
+          "plugin": "example_plugin",
+          "xlarge": "",
+          "xsmall": "12"
+        },
+        "images": "",
+        "in_box": false,
+        "styles": "",
+        "buttons": [{
+          "_uid": "cf4299dd-0470-4287-a3a9-796d9fae3f67",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "f0bc73f7-04fd-47c5-82cf-50ce582deb99",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "text": "Call to action",
+          "style": [],
+          "component": "button",
+          "is_inline": false,
+          "paragraph_style": ["mt-4", "mt-sm-4"]
+        }],
+        "headline": "Far far away, behind the word mountains, far from",
+        "box_style": [],
+        "component": "call_to_action",
+        "row_style": ["justify-content-center"],
+        "background": "",
+        "headline_2": "",
+        "bottom_body": [{
+          "_uid": "4c78b655-f9d9-44f8-957c-f7a063889982",
+          "logos": [{
+            "_uid": "8d345181-bf4e-4d36-bda2-8b1841ed0417",
+            "image": "//a.storyblok.com/f/43588/183x48/13bdab4396/adobe.svg",
+            "style": ["ml-3", "mr-3", "mb-2", "mt-2"],
+            "height": "30",
+            "alt_text": "Adobe",
+            "component": "Image"
+          }, {
+            "_uid": "62039544-69d8-4a62-bf13-85fcc358e01a",
+            "image": "//a.storyblok.com/f/43588/972x196/2beecf6cbe/amazon.svg",
+            "style": ["ml-3", "mr-3", "mb-2", "mt-2"],
+            "height": "30",
+            "alt_text": "Adobe",
+            "component": "Image"
+          }, {
+            "_uid": "9ab648cc-038f-41fb-aaf2-33a814e143fc",
+            "image": "//a.storyblok.com/f/43588/190x41/751c8b17d0/discovery.svg",
+            "style": ["ml-3", "mr-3", "mb-2", "mt-2"],
+            "height": "30",
+            "alt_text": "Adobe",
+            "component": "Image"
+          }],
+          "component": "logo_list",
+          "logo_headline": "Fortune 100 companies are using our products"
+        }],
+        "subheadline": "",
+        "column_style": ["text-center"],
+        "social_icons": [],
+        "icon_alt_text": "",
+        "section_style": [],
+        "image_position": "",
+        "container_style": []
+      }, {
+        "_uid": "6936cbff-c8f5-422c-ac99-15447dfb4e97",
+        "icon": "",
+        "logo": "",
+        "text": "Follow us and ask more on:",
+        "image": "",
+        "width": {
+          "_uid": "3a9c5e2d-6765-4384-ad68-c13408cfd777",
+          "large": "",
+          "small": "",
+          "medium": "8",
+          "plugin": "example_plugin",
+          "xlarge": "",
+          "xsmall": "12"
+        },
+        "images": "",
+        "in_box": false,
+        "styles": "",
+        "buttons": [{
+          "_uid": "8855ddff-0229-4520-9c7a-06f75f6a1a37",
+          "link": {
+            "id": "",
+            "url": "#",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "text": "Call to action",
+          "style": [],
+          "component": "button",
+          "is_inline": false,
+          "paragraph_style": ["mt-5"]
+        }],
+        "headline": "Far far away, behind the word mountains, far from",
+        "box_style": [],
+        "component": "call_to_action",
+        "row_style": ["justify-content-center"],
+        "background": "",
+        "headline_2": "",
+        "bottom_body": [],
+        "subheadline": "",
+        "column_style": ["text-center"],
+        "social_icons": [],
+        "icon_alt_text": "",
+        "section_style": [],
+        "image_position": "",
+        "container_style": []
+      }, {
+        "_uid": "c9e68d53-f8b7-4a45-b4a8-206035d9cf1b",
+        "icon": "",
+        "logo": "",
+        "text": "Follow us and ask more on:",
+        "image": "",
+        "width": {
+          "_uid": "ab56470d-520b-44a8-8aa5-d970f3162891",
+          "large": "4",
+          "small": "10",
+          "medium": "8",
+          "plugin": "example_plugin",
+          "xlarge": "",
+          "xsmall": "12"
+        },
+        "images": "",
+        "in_box": false,
+        "styles": "",
+        "buttons": [],
+        "headline": "",
+        "box_style": [],
+        "component": "call_to_action",
+        "row_style": ["justify-content-center"],
+        "background": "",
+        "headline_2": "",
+        "bottom_body": [],
+        "subheadline": "",
+        "column_style": ["text-center"],
+        "social_icons": [{
+          "_uid": "17e89707-444f-490c-8dc0-48514741946f",
+          "icon": {
+            "_uid": "bc075104-40a5-4978-b3d3-83c1e98bc49c",
+            "icon": "fa-address-book",
+            "type": "fas",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "https://www.faceblook.com",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "https://www.faceblook.com"
+          },
+          "component": "icon"
+        }, {
+          "_uid": "490a35a5-048e-4bf8-a873-447810dd374e",
+          "icon": {
+            "_uid": "e6d87846-aeff-43c9-a00e-3d5f0adaf7ce",
+            "icon": "fa-google-plus-g",
+            "type": "fab",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "https://plus.google.com",
+            "_uid": "03a622db-63a6-4d1d-9c8e-0dd26faee9a3",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "https://plus.google.com"
+          },
+          "component": "icon"
+        }, {
+          "_uid": "302534d5-5665-44e3-b5e8-a8e8730c9618",
+          "icon": {
+            "_uid": "91ec03d3-4004-40a9-b6cb-2b9a71e077e5",
+            "icon": "fa-instagram",
+            "type": "fab",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "https://www.instagram.com",
+            "_uid": "e2b2ae4a-218a-4bc5-81c3-d5a30d298751",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "https://www.instagram.com"
+          },
+          "component": "icon"
+        }, {
+          "_uid": "65adb127-9037-4357-bb54-eaca8aed7712",
+          "icon": {
+            "_uid": "bff2bbf3-8800-4980-a517-65b65f3d765e",
+            "icon": "fa-twitter",
+            "type": "fab",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "https://www.faceblook.com",
+            "_uid": "0e5a97a4-51cd-43b3-86d1-d3df0dbeb231",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "https://www.faceblook.com"
+          },
+          "component": "icon"
+        }, {
+          "_uid": "ea9d47d0-1356-4828-b817-489f78636d2d",
+          "icon": {
+            "_uid": "42747bc9-875d-4a8b-bed3-e16f3f479b6d",
+            "icon": "fa-telegram-plane",
+            "type": "fab",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "https://www.telegram.com",
+            "_uid": "3c2c38ea-c360-4fe5-b7a1-edeaaf5304a6",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "https://www.telegram.com"
+          },
+          "component": "icon"
+        }],
+        "icon_alt_text": "",
+        "section_style": [],
+        "image_position": "",
+        "container_style": []
+      }, {
+        "_uid": "960eee5b-80dd-4733-9609-55be9f86abc2",
+        "icon": "",
+        "logo": "",
+        "text": "",
+        "image": "",
+        "width": {
+          "_uid": "a2953450-df7c-4644-bbcc-d42090a07cae",
+          "large": "",
+          "small": "",
+          "medium": "",
+          "plugin": "example_plugin",
+          "xlarge": "",
+          "xsmall": "12"
+        },
+        "images": "",
+        "in_box": false,
+        "styles": "",
+        "buttons": [],
+        "headline": "Call to ction",
+        "box_style": [],
+        "component": "call_to_action",
+        "row_style": ["justify-content-center"],
+        "background": "",
+        "headline_2": "",
+        "bottom_body": [{
+          "_uid": "8f922ba5-aaa1-498b-ac42-c527a4118012",
+          "body": [{
+            "_uid": "263fafbe-9cc7-466c-91b1-e9b9ce4e144d",
+            "body": [{
+              "_uid": "c0c728e9-73e5-437f-ab14-1d2ac9a104d0",
+              "text": "ar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+              "image": "//a.storyblok.com/f/43588/3000x3000/777d463475/img_round.svg",
+              "headline": "First Action",
+              "component": "call_to_action_small",
+              "button_link": {
+                "id": "",
+                "url": "#",
+                "_uid": "0b08c90a-ab2a-43e9-96d1-52be38fb7261",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "#"
+              },
+              "button_text": "Button"
+            }],
+            "style": ["text-center", "m-sm-auto"],
+            "width": {
+              "_uid": "1a8d7f45-b2b4-4f64-af6a-29c9c925b5f5",
+              "large": "4",
+              "small": "10",
+              "medium": "6",
+              "plugin": "example_plugin",
+              "xlarge": "",
+              "xsmall": "12"
+            },
+            "component": "column"
+          }, {
+            "_uid": "692c3fbb-9b72-4966-8b89-a1d935cab8b4",
+            "body": [{
+              "_uid": "2381fb1f-53ba-4990-99d2-dab8d07ec3db",
+              "text": "ar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+              "image": "//a.storyblok.com/f/43588/3000x3000/777d463475/img_round.svg",
+              "headline": "Headline",
+              "component": "call_to_action_small",
+              "button_link": {
+                "id": "",
+                "url": "#",
+                "linktype": "url",
+                "fieldtype": "multilink",
+                "cached_url": "#"
+              },
+              "button_text": "Button"
+            }],
+            "style": ["text-center", "m-sm-auto"],
+            "width": {
+              "_uid": "6acc297f-0ab9-4035-b0f2-93f8745e61b3",
+              "large": "4",
+              "small": "10",
+              "medium": "6",
+              "plugin": "example_plugin",
+              "xlarge": "",
+              "xsmall": "12"
+            },
+            "component": "column"
+          }],
+          "style": ["pt-4 pt-md-5"],
+          "component": "row"
+        }],
+        "subheadline": "",
+        "column_style": ["text-center"],
+        "social_icons": [],
+        "icon_alt_text": "",
+        "section_style": [],
+        "image_position": "",
+        "container_style": []
+      }, {
+        "_uid": "ff82847f-2b0f-42d3-ad32-202b8504195b",
+        "icon": "",
+        "logo": "",
+        "text": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+        "image": "",
+        "width": {
+          "_uid": "63a8ccd0-6ac9-42d1-8b76-72bfb1349d95",
+          "large": "",
+          "small": "10",
+          "medium": "8",
+          "plugin": "example_plugin",
+          "xlarge": "",
+          "xsmall": "12"
+        },
+        "images": "",
+        "in_box": true,
+        "styles": "",
+        "buttons": [{
+          "_uid": "4bd480a4-bb7d-4bd3-a5c4-ebefbca09cf7",
+          "link": {
+            "id": "",
+            "url": "",
+            "_uid": "eb6786bf-62dc-4ee9-b6a6-401ae737493f",
+            "linktype": "story",
+            "fieldtype": "multilink",
+            "cached_url": ""
+          },
+          "text": "call to action",
+          "style": [],
+          "component": "button",
+          "is_inline": false,
+          "paragraph_style": ["mt-4", "mt-sm-4"]
+        }],
+        "headline": "Call to Action\"",
+        "box_style": [],
+        "component": "call_to_action",
+        "row_style": ["justify-content-center"],
+        "background": "//a.storyblok.com/f/43588/3000x2000/1bdbaa71fa/bg_c_1.svg",
+        "headline_2": "",
+        "bottom_body": [],
+        "subheadline": "",
+        "column_style": ["text-center"],
+        "social_icons": [],
+        "icon_alt_text": "",
+        "section_style": [],
+        "image_position": "",
+        "container_style": []
+      }, {
+        "_uid": "d6e22e21-5bb3-4191-82ec-99c47fb31d86",
+        "style": "left",
+        "headline": "A small river named Duden flows by their place",
+        "component": "call_to_action_2_col",
+        "button_link": {
+          "id": "",
+          "url": "#",
+          "_uid": "c6f61fcc-26a8-4d83-8d7d-0a083f428fdc",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "#"
+        },
+        "button_text": "Download"
+      }, {
+        "_uid": "675dc8a6-210c-43d3-9aff-970d42c28b93",
+        "icon": "",
+        "logo": "",
+        "text": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+        "image": "",
+        "width": {
+          "_uid": "5822d2d8-dd5a-4ca6-bd3a-fcf1cd1edfe7",
+          "large": "",
+          "small": "8",
+          "medium": "6",
+          "plugin": "example_plugin",
+          "xlarge": "",
+          "xsmall": "12"
+        },
+        "images": "",
+        "in_box": true,
+        "styles": "",
+        "buttons": [{
+          "_uid": "eb441a22-c1f2-4aa7-9028-3c06c1f7dc9b",
+          "link": {
+            "id": "",
+            "url": "",
+            "linktype": "story",
+            "fieldtype": "multilink",
+            "cached_url": ""
+          },
+          "text": "call to action",
+          "style": [],
+          "component": "button",
+          "is_inline": false,
+          "paragraph_style": ["mt-4", "mt-sm-4"]
+        }],
+        "headline": "Call to Action\"",
+        "box_style": ["br-0"],
+        "component": "call_to_action",
+        "row_style": ["justify-content-center"],
+        "background": "//a.storyblok.com/f/43588/3000x2000/acbc7d40ac/bg_1.svg",
+        "headline_2": "",
+        "bottom_body": [{
+          "_uid": "8a51535e-0f30-4232-8a7b-824dbe24e5bb",
+          "body": [{
+            "_uid": "ecf1c249-beb2-450d-889f-2c82d145e7e4",
+            "icon": "//a.storyblok.com/f/43588/3000x3000/777d463475/img_round.svg",
+            "text": "This demo uses Nuxt.js but Storyblok also works perfectly with Next.js, Gatsby, Ruby on Rails or any other technology.",
+            "headline": "Bootstrap",
+            "component": "feature"
+          }, {
+            "_uid": "93d47dd1-5c7b-402c-b113-0b399d3a5777",
+            "icon": "//a.storyblok.com/f/43588/3000x3000/777d463475/img_round.svg",
+            "text": "This demo uses Nuxt.js but Storyblok also works perfectly with Next.js, Gatsby, Ruby on Rails or any other technology.",
+            "headline": "Bootstrap",
+            "component": "feature"
+          }, {
+            "_uid": "f5482c6a-efa0-4846-b01f-d82bc410efc5",
+            "icon": "//a.storyblok.com/f/43588/3000x3000/777d463475/img_round.svg",
+            "text": "This demo uses Nuxt.js but Storyblok also works perfectly with Next.js, Gatsby, Ruby on Rails or any other technology.",
+            "headline": "Bootstrap",
+            "component": "feature"
+          }, {
+            "_uid": "7586ada2-c7c6-4f84-b381-83f570dd8dea",
+            "icon": "//a.storyblok.com/f/43588/3000x3000/777d463475/img_round.svg",
+            "text": "This demo uses Nuxt.js but Storyblok also works perfectly with Next.js, Gatsby, Ruby on Rails or any other technology.",
+            "headline": "Bootstrap",
+            "component": "feature"
+          }],
+          "component": "feature_list"
+        }],
+        "subheadline": "",
+        "column_style": ["text-center"],
+        "social_icons": [],
+        "icon_alt_text": "",
+        "section_style": ["pb-0"],
+        "image_position": "",
+        "container_style": []
+      }, {
+        "_uid": "ce52d1bc-e699-4d03-9769-550cdec1dcc8",
+        "style": "right",
+        "headline": "Call to Action",
+        "component": "call_to_action_2_col",
+        "button_link": {
+          "id": "",
+          "url": "#",
+          "_uid": "6310bfdc-6b1a-4f27-a59c-b56ccd069408",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "#"
+        },
+        "button_text": "Call to Action"
+      }, {
+        "_uid": "f36d8ede-ac74-4647-9542-b7542792d491",
+        "icon": "",
+        "logo": "",
+        "text": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.",
+        "image": "//a.storyblok.com/f/43588/2300x1603/cb9146a2a2/colors_wide_1.jpg",
+        "width": {
+          "_uid": "bf7ea345-4a43-4710-b0af-2bd7dc8f7ac0",
+          "large": "5",
+          "small": "",
+          "medium": "6",
+          "plugin": "example_plugin",
+          "xlarge": "",
+          "xsmall": "12"
+        },
+        "images": "",
+        "in_box": false,
+        "styles": "",
+        "buttons": [{
+          "_uid": "dd5de618-2767-4550-ae90-89891ccca873",
+          "link": {
+            "id": "",
+            "url": "",
+            "linktype": "story",
+            "fieldtype": "multilink",
+            "cached_url": ""
+          },
+          "text": "call to action",
+          "style": [],
+          "component": "button",
+          "is_inline": false,
+          "paragraph_style": ["mt-4", "mt-sm-4"]
+        }],
+        "headline": "Call to Action\"",
+        "box_style": [],
+        "component": "call_to_action",
+        "row_style": ["justify-content-center"],
+        "background": "",
+        "headline_2": "",
+        "bottom_body": [{
+          "_uid": "05c01694-5539-442a-a4cb-0a874530aa3a",
+          "body": [{
+            "_uid": "a792ff33-5820-4292-b961-8269b696b3da",
+            "icon": "//a.storyblok.com/f/43588/3000x3000/777d463475/img_round.svg",
+            "text": "This demo uses Nuxt.js but Storyblok also works perfectly with Next.js, Gatsby, Ruby on Rails or any other technology.",
+            "headline": "Bootstrap",
+            "component": "feature"
+          }, {
+            "_uid": "0316a6f8-39d9-4e90-95a1-aa211f0ed7c7",
+            "icon": "//a.storyblok.com/f/43588/3000x3000/777d463475/img_round.svg",
+            "text": "This demo uses Nuxt.js but Storyblok also works perfectly with Next.js, Gatsby, Ruby on Rails or any other technology.",
+            "headline": "Bootstrap",
+            "component": "feature"
+          }, {
+            "_uid": "6a631c4f-8e76-41cd-a194-40c874410207",
+            "icon": "//a.storyblok.com/f/43588/3000x3000/777d463475/img_round.svg",
+            "text": "This demo uses Nuxt.js but Storyblok also works perfectly with Next.js, Gatsby, Ruby on Rails or any other technology.",
+            "headline": "Bootstrap",
+            "component": "feature"
+          }, {
+            "_uid": "37eb089e-a446-4998-a15d-dd771c1bcec6",
+            "icon": "//a.storyblok.com/f/43588/3000x3000/777d463475/img_round.svg",
+            "text": "This demo uses Nuxt.js but Storyblok also works perfectly with Next.js, Gatsby, Ruby on Rails or any other technology.",
+            "headline": "Bootstrap",
+            "component": "feature"
+          }],
+          "component": "feature_list"
+        }],
+        "subheadline": "",
+        "column_style": ["pt-5 pt-lg-0", "ml-auto"],
+        "social_icons": [],
+        "icon_alt_text": "",
+        "section_style": [],
+        "image_position": "left",
+        "container_style": ["align-items-center", "d-flex", "justify-content-center"]
+      }, {
+        "_uid": "45609bd2-6bb1-485d-af84-c70162cee5ab",
+        "text": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.",
+        "image": "//a.storyblok.com/f/43588/3000x1000/e00ed4f1ec/img_very_wide.svg",
+        "buttons": [{
+          "_uid": "02b57c98-7cec-4be1-9e46-a441fcf3baf3",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "ce4cdd14-833f-49dd-ab51-33a4492bd441",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "text": "Call to action",
+          "style": [],
+          "component": "button",
+          "is_inline": false,
+          "paragraph_style": ["mt-4", "mt-sm-4"]
+        }],
+        "headline": "Call to Action",
+        "component": "call_to_action_wide_image"
+      }, {
+        "_uid": "9a28dc76-7078-489f-afd9-01afe7ce59a3",
+        "icon": "",
+        "logo": "",
+        "text": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+        "image": "",
+        "width": {
+          "_uid": "48fc0076-d82e-4ca8-8957-f421c989733e",
+          "large": "6",
+          "small": "10",
+          "medium": "8",
+          "plugin": "example_plugin",
+          "xlarge": "",
+          "xsmall": "12"
+        },
+        "images": "",
+        "in_box": false,
+        "styles": "",
+        "buttons": [{
+          "_uid": "e13d0be8-43f6-4c19-b72e-1193954dbe6b",
+          "link": {
+            "id": "",
+            "url": "#",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "text": "call to action",
+          "style": ["btn-shadow"],
+          "component": "button",
+          "is_inline": true,
+          "paragraph_style": ["mt-5"]
+        }, {
+          "_uid": "f8120dbc-2736-4b52-8481-6c1d006483c5",
+          "link": {
+            "id": "",
+            "url": "#",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "text": "call to action",
+          "style": ["btn-shadow", "ml-4", "btn-white"],
+          "component": "button",
+          "is_inline": true,
+          "paragraph_style": ["mt-5"]
+        }],
+        "headline": "This Blocks are build with the Bootstrap Framework",
+        "box_style": [],
+        "component": "call_to_action",
+        "row_style": ["justify-content-center"],
+        "background": "//a.storyblok.com/f/43588/3000x2000/e150be6876/alt_wide_1.svg",
+        "headline_2": "",
+        "bottom_body": [{
+          "_uid": "3cf3038b-f6e8-4fce-a8ce-522d6a50bf4d",
+          "body": [{
+            "_uid": "aaf1d624-f57f-4df7-8417-2fd37d272b8e",
+            "icon": "//a.storyblok.com/f/43588/3000x3000/777d463475/img_round.svg",
+            "text": "This demo uses Nuxt.js but Storyblok also works perfectly with Next.js, Gatsby, Ruby on Rails or any other technology.",
+            "headline": "Bootstrap",
+            "component": "feature"
+          }, {
+            "_uid": "2f073f3e-1354-4dc8-b479-435d08ff0ab3",
+            "icon": "//a.storyblok.com/f/43588/3000x3000/777d463475/img_round.svg",
+            "text": "This demo uses Nuxt.js but Storyblok also works perfectly with Next.js, Gatsby, Ruby on Rails or any other technology.",
+            "headline": "Bootstrap",
+            "component": "feature"
+          }, {
+            "_uid": "8157b159-ee8d-44b4-80a9-0b8449e6cd7a",
+            "icon": "//a.storyblok.com/f/43588/3000x3000/777d463475/img_round.svg",
+            "text": "This demo uses Nuxt.js but Storyblok also works perfectly with Next.js, Gatsby, Ruby on Rails or any other technology.",
+            "headline": "Bootstrap",
+            "component": "feature"
+          }, {
+            "_uid": "456fdf97-83ad-4280-8491-03537cee9929",
+            "icon": "//a.storyblok.com/f/43588/3000x3000/777d463475/img_round.svg",
+            "text": "This demo uses Nuxt.js but Storyblok also works perfectly with Next.js, Gatsby, Ruby on Rails or any other technology.",
+            "headline": "Bootstrap",
+            "component": "feature"
+          }],
+          "component": "feature_list"
+        }],
+        "subheadline": "",
+        "column_style": ["text-center", "pb-md-5"],
+        "social_icons": [],
+        "icon_alt_text": "",
+        "section_style": [],
+        "image_position": "",
+        "container_style": []
+      }, {
+        "_uid": "ca251acc-5d9d-41e9-ae1d-f78cc547e5f1",
+        "icon": "",
+        "logo": "",
+        "text": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+        "image": "",
+        "width": {
+          "_uid": "1ee68af8-db9d-4c6e-959e-42ce3363d1da",
+          "large": "",
+          "small": "6",
+          "medium": "",
+          "plugin": "example_plugin",
+          "xlarge": "",
+          "xsmall": "12"
+        },
+        "images": "",
+        "in_box": false,
+        "styles": "",
+        "buttons": [{
+          "_uid": "8d60f3d9-5b40-4c7b-ab2e-700b0997fa9b",
+          "link": {
+            "id": "",
+            "url": "",
+            "linktype": "story",
+            "fieldtype": "multilink",
+            "cached_url": ""
+          },
+          "text": "call to action",
+          "style": [],
+          "component": "button",
+          "is_inline": false,
+          "paragraph_style": ["mt-4", "mt-sm-4"]
+        }],
+        "headline": "Call to Action\"",
+        "box_style": [],
+        "component": "call_to_action",
+        "row_style": ["justify-content-center"],
+        "background": "",
+        "headline_2": "",
+        "bottom_body": [{
+          "_uid": "305eb82a-7593-4152-b665-3b8909e2017e",
+          "body": [{
+            "_uid": "a4f475af-4bdb-462b-96da-c79cf713c2ab",
+            "icon": "//a.storyblok.com/f/43588/3000x3000/777d463475/img_round.svg",
+            "text": "This demo uses Nuxt.js but Storyblok also works perfectly with Next.js, Gatsby, Ruby on Rails or any other technology.",
+            "headline": "Bootstrap",
+            "component": "feature"
+          }, {
+            "_uid": "81b4a2ee-15f6-4cde-af1f-75a7aa8add3a",
+            "icon": "//a.storyblok.com/f/43588/3000x3000/777d463475/img_round.svg",
+            "text": "This demo uses Nuxt.js but Storyblok also works perfectly with Next.js, Gatsby, Ruby on Rails or any other technology.",
+            "headline": "Bootstrap",
+            "component": "feature"
+          }, {
+            "_uid": "b5a497d3-a786-45a8-84dd-13127a95de64",
+            "icon": "//a.storyblok.com/f/43588/3000x3000/777d463475/img_round.svg",
+            "text": "This demo uses Nuxt.js but Storyblok also works perfectly with Next.js, Gatsby, Ruby on Rails or any other technology.",
+            "headline": "Bootstrap",
+            "component": "feature"
+          }, {
+            "_uid": "c1766052-37a9-4b9c-a678-a040a8aa65f5",
+            "icon": "//a.storyblok.com/f/43588/3000x3000/777d463475/img_round.svg",
+            "text": "This demo uses Nuxt.js but Storyblok also works perfectly with Next.js, Gatsby, Ruby on Rails or any other technology.",
+            "headline": "Bootstrap",
+            "component": "feature"
+          }],
+          "component": "feature_list"
+        }],
+        "subheadline": "",
+        "column_style": ["text-center", "pb-md-5"],
+        "social_icons": [],
+        "icon_alt_text": "",
+        "section_style": [],
+        "image_position": "",
+        "container_style": []
+      }],
+      "component": "blank"
+    },
+    "slug": "calltoaction",
+    "full_slug": "calltoaction",
+    "sort_by_date": null,
+    "position": 60,
+    "tag_list": [],
+    "is_startpage": false,
+    "parent_id": 0,
+    "meta_data": null,
+    "group_id": "2fd16da9-709e-4632-af96-d4d738c19a2c",
+    "release_id": null
+  }
+}
